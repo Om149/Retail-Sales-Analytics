@@ -1,0 +1,50 @@
+﻿ProductID,ProductName,Category,SubCategory,UnitPrice,UnitCost
+P1001,Wireless Earbuds,Electronics,Audio,3999,2053.08
+P1002,Bluetooth Speaker,Electronics,Audio,5999,3374.49
+P1003,Headphones,Electronics,Audio,499,260.41
+P1004,Laptop,Electronics,Computing,299,204.22
+P1005,Wireless Mouse,Electronics,Computing,24999,16089.61
+P1006,Keyboard,Electronics,Computing,2499,1515.83
+P1007,Monitor,Electronics,Computing,199,101.11
+P1008,USB-C Cable,Electronics,Accessories,499,315.17
+P1009,Power Bank,Electronics,Accessories,199,129.03
+P1010,Webcam,Electronics,Accessories,5999,4049.12
+P1011,Phone Charger,Electronics,Accessories,1999,1211.11
+P1012,Mixer Grinder,Home & Kitchen,Kitchen,1499,984.51
+P1013,Electric Kettle,Home & Kitchen,Kitchen,8999,6666.37
+P1014,Air Fryer,Home & Kitchen,Kitchen,8999,6494.99
+P1015,Cookware Set,Home & Kitchen,Kitchen,5999,3640.1
+P1016,Office Chair,Home & Kitchen,Furniture,699,368.12
+P1017,Study Table,Home & Kitchen,Furniture,8999,5228.22
+P1018,Bookshelf,Home & Kitchen,Furniture,299,177.6
+P1019,Storage Rack,Home & Kitchen,Furniture,899,660.09
+P1020,Vacuum Cleaner,Home & Kitchen,Appliances,2499,1397.83
+P1021,Ceiling Fan,Home & Kitchen,Appliances,199,139.08
+P1022,Room Heater,Home & Kitchen,Appliances,1999,1034.38
+P1023,Men's T-Shirt,Fashion,Men,24999,14838.41
+P1024,Men's Jeans,Fashion,Men,1999,1135.34
+P1025,Formal Shirt,Fashion,Men,3999,2661.56
+P1026,Sneakers,Fashion,Men,12999,7649.79
+P1027,Women's Kurti,Fashion,Women,499,344.99
+P1028,Women's Jeans,Fashion,Women,199,135.0
+P1029,Handbag,Fashion,Women,8999,5100.78
+P1030,Women's Sneakers,Fashion,Women,299,220.24
+P1031,Watch,Fashion,Accessories,12999,6633.4
+P1032,Sunglasses,Fashion,Accessories,699,430.6
+P1033,Wallet,Fashion,Accessories,12999,7662.26
+P1034,Belt,Fashion,Accessories,899,527.34
+P1035,Yoga Mat,Sports,Fitness,3999,2239.81
+P1036,Dumbbells,Sports,Fitness,24999,17125.92
+P1037,Resistance Bands,Sports,Fitness,299,198.16
+P1038,Treadmill,Sports,Fitness,399,255.46
+P1039,Camping Tent,Sports,Outdoor,499,263.98
+P1040,Cricket Bat,Sports,Outdoor,1199,672.62
+P1041,Football,Sports,Outdoor,24999,16799.33
+P1042,Hiking Backpack,Sports,Outdoor,1999,1091.22
+P1043,Face Wash,Beauty & Personal Care,Skincare,899,658.84
+P1044,Moisturizer,Beauty & Personal Care,Skincare,8999,4470.54
+P1045,Sunscreen,Beauty & Personal Care,Skincare,12999,6364.7
+P1046,Serum,Beauty & Personal Care,Skincare,899,539.71
+P1047,Shampoo,Beauty & Personal Care,Haircare,299,162.45
+P1048,Hair Dryer,Beauty & Personal Care,Haircare,2499,1856.53
+P1049,Hair Oil,Beauty & Personal Care,Haircare,899,488.87

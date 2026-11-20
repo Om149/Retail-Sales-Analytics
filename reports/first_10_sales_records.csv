@@ -1,0 +1,11 @@
+OrderID,OrderDate,ShipDate,CustomerID,ProductID,Quantity,DiscountPct,PaymentMode,SalesChannel,Returned,Unnamed: 10,Unnamed: 11
+ORD007443,01-01-2023,02-01-2023,C1108,P1022,4.0,0.15,Net Banking,Online,Yes,,
+ORD001027,01-01-2023,08-01-2023,C1196,P1027,2.0,0.15,Cash on Delivery,Store,No,,
+ORD001199,01-01-2023,07-01-2023,C0192,P1041,4.0,0.05,Net Banking,Marketplace,No,,
+ORD000269,01-01-2023,02-01-2023,C1065,P1007,1.0,0.0,Net Banking,Marketplace,No,,
+ORD004591,01-01-2023,05-01-2023,C0616,P1008,2.0,0.1,Cash on Delivery,Mobile App,No,,
+ORD002743,01-01-2023,02-01-2023,C0651,P1043,4.0,0.0,Credit Card,Marketplace,No,,
+ORD002196,01-01-2023,08-01-2023,C0101,P1025,2.0,0.05,Credit Card,Mobile App,No,,
+ORD003272,02-01-2023,09-01-2023,C0135,P1035,6.0,0.1,Net Banking,Online,No,,
+ORD001285,02-01-2023,09-01-2023,C0682,P1009,3.0,0.05,Debit Card,Online,No,,
+ORD001103,02-01-2023,05-01-2023,C0824,P1039,1.0,0.2,UPI,Mobile App,No,,

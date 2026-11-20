@@ -1,0 +1,23 @@
+﻿File,Column,Description
+sales_raw.csv,OrderID,Order identifier; repeated across line items in an order
+sales_raw.csv,OrderDate,Date the order was placed; a small number of blanks are intentional
+sales_raw.csv,ShipDate,Date the order was shipped
+sales_raw.csv,CustomerID,Customer key; joins to customers.csv; some blanks are intentional
+sales_raw.csv,ProductID,Product key; joins to products.csv
+sales_raw.csv,Quantity,Units sold; a few blanks are intentional
+sales_raw.csv,DiscountPct,Discount as decimal fraction (0.10 = 10%)
+sales_raw.csv,PaymentMode,Payment method; includes a few inconsistent text values
+sales_raw.csv,SalesChannel,"Online, Store, Mobile App, Marketplace; includes minor text inconsistencies"
+sales_raw.csv,Returned,Whether the line item was returned
+customers.csv,CustomerID,Unique customer key
+customers.csv,CustomerName,Fictional customer name
+customers.csv,Segment,"Consumer, Corporate, Small Business"
+customers.csv,City,Customer city
+customers.csv,State,Customer state
+customers.csv,Region,Sales region
+products.csv,ProductID,Unique product key
+products.csv,ProductName,Product name
+products.csv,Category,Product category
+products.csv,SubCategory,Product subcategory
+products.csv,UnitPrice,List price per unit in INR
+products.csv,UnitCost,Estimated cost per unit in INR
